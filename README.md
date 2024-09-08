@@ -77,6 +77,9 @@ You, as a **Data Analyst**, have been assigned the task to analyze the provided 
 │
 └── README.md
 ```
+## Dashboard Live Link
+https://app.powerbi.com/view?r=eyJrIjoiZDYxOGU5MmUtY2Y4Ny00M2E0LWIwNDgtZjkxNzRhZWU4YWIzIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
+
 ## Author
   Kartik Raghuwanshi
 ### Gmail id
